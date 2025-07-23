@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Alice Johnson",
+        "email": "alice.johnson@example.com",
+        "address": "123 Maple Street, Springfield, IL 62704",
+        "phone": "+1-217-555-1234"
+    },
+    {
+        "id": 2,
+        "name": "Bob Smith",
+        "email": "bob.smith@example.com",
+        "address": "456 Oak Avenue, Austin, TX 73301",
+        "phone": "+1-512-555-5678"
+    },
+    {
+        "id": 3,
+        "name": "Carol Williams",
+        "email": "carol.williams@example.com",
+        "address": "789 Pine Road, Seattle, WA 98101",
+        "phone": "+1-206-555-9012"
+    },
+    {
+        "id": 4,
+        "name": "Gulshan",
+        "email": "gulshan@gmail.com",
+        "address": "115, RRNagar",
+        "phone": "1234512345"
+    },
+    {
+        "id": 5,
+        "name": "Shashank",
+        "email": "shashank@gmail.com",
+        "address": "Bangalore",
+        "phone": "1234123455"
+    },
+    {
+        "id": 6,
+        "name": "Vivek",
+        "email": "vivek@gmail.com",
+        "address": "Patna",
+        "phone": "9898981212"
+    },
+    {
+        "id": 7,
+        "name": "Jeeva",
+        "email": "jeeva@gmail.com",
+        "address": "Tamilnadu",
+        "phone": "8979876098"
+    },
+    {
+        "id": 8,
+        "name": "Alice Smith",
+        "email": "alice.smith@email.net",
+        "address": "456 Oak Avenue, Anytown, CA 91234",
+        "phone": "555-987-6543"
+    }
+]
